@@ -7,4 +7,6 @@ pagetitle: Kinsey N. Tedford
 
 <img src="images/kinseytedford_2019.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Website underway
+*website underway*
+
+I am a PhD student at the University of Virginia in the [Department of Environmental Sciences](https://evsc.as.virginia.edu) working with [Max Castorani](https://castorani.evsc.virginia.edu). 
