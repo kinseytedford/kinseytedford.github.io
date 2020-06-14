@@ -5,6 +5,5 @@ pagetitle: Kinsey N. Tedford
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-My dissertation research, under the advisement of [Dr. Max Castorani](https://castorani.evsc.virginia.edu) at Univesity of Virginia, focuses on X
+My dissertation research, under the advisement of [Dr. Max Castorani](https://castorani.evsc.virginia.edu) at Univesity of Virginia, focuses on 
 
-### Publications

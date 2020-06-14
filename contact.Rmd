@@ -3,8 +3,4 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-I'd love to hear from you, so feel free to reach out:
-
 ktedford@virginia.edu<br>
-
-Or connect with me on GitHub or Twitter (links in top right).

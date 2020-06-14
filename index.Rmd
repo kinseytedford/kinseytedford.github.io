@@ -7,6 +7,4 @@ pagetitle: Kinsey N. Tedford
 
 <img src="images/kinseytedford_2019.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-My interest X.
-
-I graduated from X.
+Website underway
