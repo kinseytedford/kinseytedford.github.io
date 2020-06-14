@@ -8,6 +8,8 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+**Tedford, K.N.**. (2020). [Virtual Teacher's Workshop on Oyster Habitat Restoration](files/Oyster Habitat Restoration - TNC Teacher's Workshop.pdf). The Nature Conservancy's Virginia Coast Reserve.
+
 Johnston, C., **Tedford, K.N.** & Wittyngham, S. (2019). [Migrate? What if you can't move?](https://issuu.com/easternshorefirst/docs/oct19upload). *Shore Outdoors* Newsletter, 41-42. 
 
 **Tedford, K.N.** & Bass, D. (2018). [Coastal Migration of the Black Land Crab on Grand Cayman](files/Flicker-37-1.pdf). Cayman Islands Department of Environment *Flicker* Newsletter, 37:5-8. 
