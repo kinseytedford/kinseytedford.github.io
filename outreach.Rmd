@@ -1,6 +1,9 @@
 ---
 title: ' '
 pagetitle: Kinsey N. Tedford
+output:
+  html_document:
+    df_print: paged
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
