@@ -3,4 +3,11 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-ktedford@virginia.edu<br>
+Department of Environmental Sciences
+University of Virginia
+Clark Hall, 291 McCormick Road
+Charlottesville, VA 22904-4123
+
+Email: ktedford@virginia.edu<br>
+
+Office: Clark Hall 350

@@ -5,14 +5,26 @@ pagetitle: Kinsey N. Tedford
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Bass, D. & **Tedford, K.N.** (2019). First report of a population of freshwater caridean shrimp in an achialine cave on Grant Cayman. *Caribbean Journal of Science*, 49:293-294. 
+#### Peer-reviewed publications
 
-Bass, D., Gaskin, B., & **Tedford, K.N.** (2018). Macroinvertebrate community structure and physicochemical conditions of a northwestern Oklahoma Spring. *Proceedings of the Oklahoma Academy of Science*, 98:6-13. 
+Bass, D. & **Tedford, K.N.** (2019). [First report of a population of freshwater caridean shrimp in an achialine cave on Grant Cayman](files/Bass_Tedford_CJS_2019.pdf). *Caribbean Journal of Science*, 49:293-294. 
 
-Bass, D., Gaskin, B., & **Tedford, K.N.** (2017). Macroinvertebrate community structure and physicochemical conditions of a Desperado Spring. *Proceedings of the Oklahoma Academy of Science*, 97:41-46. 
+Bass, D., Gaskin, B., & **Tedford, K.N.** (2018). [Macroinvertebrate community structure and physicochemical conditions of a northwestern Oklahoma Spring](files/Bass_et_al_POAS_2018.pdf). *Proceedings of the Oklahoma Academy of Science*, 98:6-13. 
 
-**Tedford, K.N.** & Bass, D. (2015). Macroinvertebrate community structure and physicochemical conditions of a southeastern Oklahoma Bog. *Proceedings of the Oklahoma Academy of Science*, 95:96-103. 
+Bass, D., Gaskin, B., & **Tedford, K.N.** (2017). [Macroinvertebrate community structure and physicochemical conditions of a Desperado Spring](files/Bass_et_al_POAS_2017.pdf). *Proceedings of the Oklahoma Academy of Science*, 97:41-46. 
 
-Bass, D., **Tedford, K.N.**, Harlin, C.B., & Shelley, R.M. (2015).Additional distribution records of Scolopendromorph centipedes. *Proceedings of the Oklahoma Academy of Science*, 95:93-95. 
+**Tedford, K.N.** & Bass, D. (2015). [Macroinvertebrate community structure and physicochemical conditions of a southeastern Oklahoma Bog](files/Tedford_Bass_POAS_2015.pdf). *Proceedings of the Oklahoma Academy of Science*, 95:96-103. 
 
-(in prep) **Tedford, K.N.** & Bass, D. (2015). Coastal migration of the black land crab, *Gecarcinus ruricola*, (Linnaeus, 1758) on Grand Cayman Island. 
+Bass, D., **Tedford, K.N.**, Harlin, C.B., & Shelley, R.M. (2015). [Additional distribution records of Scolopendromorph centipedes](files/Bass_et_al_POAS_2015.pdf). *Proceedings of the Oklahoma Academy of Science*, 95:93-95. 
+
+(In prep) **Tedford, K.N.** & Bass, D. (2015). Coastal migration of the black land crab, *Gecarcinus ruricola*, (Linnaeus, 1758) on Grand Cayman Island. 
+
+#### Broader impacts publications and other media
+
+Johnston, C., **Tedford, K.N.** & Wittyngham, S. (2019). [Migrate? What if you can't move?](https://issuu.com/easternshorefirst/docs/oct19upload). *Shore Outdoors* Newsletter, 41-42. 
+
+**Tedford, K.N.** & Bass, D. (2018). [Coastal Migration of the Black Land Crab on Grand Cayman](files/Flicker37-1.pdf). Cayman Islands Department of Environment *Flicker* Newsletter, 37:5-8. 
+
+**Tedford, K.N.** (2017). [Crabtivating creatures!](files/Flicker31.pdf). Cayman Islands Department of Environment *Flicker* Newsletter, 31:7-9. 
+
+Bass, D. & **Tedford, K.N.** (2015). [Land Crab Study to Commence on Grand Cayman](files/LandCrabStudy.pdf). Cayman Islands Department of Environment *Flicker* Newsletter, 21:2-4. 
