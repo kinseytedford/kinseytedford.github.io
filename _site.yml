@@ -7,8 +7,6 @@ navbar:
       href: research.html
     - text: "Outreach"
       href: outreach.html
-    - text: "CV"
-      href: cv.html
     - text: "Links"
       href: links.html
   right:
