@@ -7,7 +7,7 @@ pagetitle: Kinsey N. Tedford
 
 <img src="images/kinseytedford_2019.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
-*website underway*
+*webpage underway*
 
 I am a PhD student at the University of Virginia in the [Department of Environmental Sciences](https://evsc.as.virginia.edu) working with [Max Castorani](https://castorani.evsc.virginia.edu) studying the community ecology of coastal marine ecosystems. I am also a [Virginia Sea Grant](https://vaseagrant.org) Fellow working with the Nature Conservancy's [Virginia Coast Reserve](https://www.nature.org/en-us/about-us/where-we-work/united-states/virginia/stories-in-virginia/virginia-coast-reserve/) on oyster reef restoration. I aspire to build on ecological theory to answer compelling questions at the interface of ecology, conservation, and management.
 
