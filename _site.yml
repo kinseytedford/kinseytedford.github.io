@@ -12,10 +12,11 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: fa-github fa-lg
-      href: https://github.com/kinseytedford
     - icon: fa-twitter fa-lg
       href: https://twitter.com/kinseytedford
+    - icon: fa-github fa-lg
+      href: https://github.com/kinseytedford
+
 output:
   html_document:
     theme: paper
