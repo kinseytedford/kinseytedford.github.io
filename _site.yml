@@ -9,6 +9,8 @@ navbar:
       href: publications.html
     - text: "Outreach"
       href: outreach.html
+    - text: "Photos"
+      href: photos.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
