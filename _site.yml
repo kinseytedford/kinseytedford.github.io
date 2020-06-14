@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Kinsey N. Tedford"
   left:
-    - text: "About"
-      href: about.html
     - text: "Research"
       href: research.html
     - text: "Outreach"
