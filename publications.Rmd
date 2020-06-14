@@ -5,8 +5,6 @@ pagetitle: Kinsey N. Tedford
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-*website underway*
-
 Bass, D. & **Tedford, K.N.** (2019). [First report of a population of freshwater caridean shrimp in an achialine cave on Grant Cayman](files/Bass_Tedford_CJS_2019.pdf). *Caribbean Journal of Science*, 49:293-294. 
 
 Bass, D., Gaskin, B., & **Tedford, K.N.** (2018). [Macroinvertebrate community structure and physicochemical conditions of a northwestern Oklahoma Spring](files/Bass_et_al_POAS_2018.pdf). *Proceedings of the Oklahoma Academy of Science*, 98:6-13. 
