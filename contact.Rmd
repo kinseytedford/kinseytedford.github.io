@@ -5,7 +5,7 @@ pagetitle: Kinsey N. Tedford
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Thanks for visiting and feel free to drop a line (ktedford@virginia.edu) or connect via Twitter or Github (links in top right).
+Thanks for visiting and feel free to drop a line (ktedford@virginia.edu) or connect via Twitter.
 
 Department of Environmental Sciences<br>
 University of Virginia<br>
