@@ -5,7 +5,7 @@ pagetitle: Kinsey N. Tedford
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-#### *Peer-reviewed publications*
+#### *Peer-reviewed journal articles*
 
 Bass, D. & **Tedford, K.N.** 2019. [First report of a population of the freshwater caridean shrimp *Macrobrachium carcinus* from an anchialine cave on Grand Cayman](files/Bass_Tedford_CJS_2019.pdf). *Caribbean Journal of Science*, 49:293-294. 
 
